@@ -23,7 +23,7 @@ h1{
     padding: 15px;
     margin-bottom: 20px;
     justify-content: space-between;
-    width: 700px;
+    /* width: 700px; */
 }
 
 .block2{
@@ -33,7 +33,7 @@ h1{
     padding: 15px;
     margin-bottom: 20px;
     justify-content: space-evenly;
-    width: 700px;
+    /* width: 700px; */
 
 }
 
@@ -44,6 +44,9 @@ h1{
     padding: 15px;
     margin-bottom: 20px;
     justify-content: space-between;
-    width: 700px;
+    /* width: 700px; */
+}
 
+.block1, .block2, .block3{
+    width: 95%;
 }
